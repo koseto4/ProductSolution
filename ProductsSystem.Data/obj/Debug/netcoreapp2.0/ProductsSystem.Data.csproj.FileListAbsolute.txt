@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.Data\bin\Debug\netcoreapp2.0\ProductsSystem.Data.deps.json
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.Data\bin\Debug\netcoreapp2.0\ProductsSystem.Data.dll
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.Data\bin\Debug\netcoreapp2.0\ProductsSystem.Data.pdb
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.Data\bin\Debug\netcoreapp2.0\ProductsSystem.Models.dll
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.Data\bin\Debug\netcoreapp2.0\ProductsSystem.Models.pdb
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.Data\obj\Debug\netcoreapp2.0\ProductsSystem.Data.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.Data\obj\Debug\netcoreapp2.0\ProductsSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.Data\obj\Debug\netcoreapp2.0\ProductsSystem.Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.Data\obj\Debug\netcoreapp2.0\ProductsSystem.Data.AssemblyInfo.cs
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.Data\obj\Debug\netcoreapp2.0\ProductsSystem.Data.csproj.CopyComplete
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.Data\obj\Debug\netcoreapp2.0\ProductsSystem.Data.dll
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.Data\obj\Debug\netcoreapp2.0\ProductsSystem.Data.pdb
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.Data\bin\Debug\netcoreapp2.0\ProductsSystem.Data.runtimeconfig.json
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.Data\bin\Debug\netcoreapp2.0\ProductsSystem.Data.runtimeconfig.dev.json

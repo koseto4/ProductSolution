@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.ViewModels\bin\Debug\netcoreapp2.0\ProductsSystem.ViewModels.deps.json
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.ViewModels\bin\Debug\netcoreapp2.0\ProductsSystem.ViewModels.dll
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.ViewModels\bin\Debug\netcoreapp2.0\ProductsSystem.ViewModels.pdb
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.ViewModels\obj\Debug\netcoreapp2.0\ProductsSystem.ViewModels.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.ViewModels\obj\Debug\netcoreapp2.0\ProductsSystem.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.ViewModels\obj\Debug\netcoreapp2.0\ProductsSystem.ViewModels.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.ViewModels\obj\Debug\netcoreapp2.0\ProductsSystem.ViewModels.AssemblyInfo.cs
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.ViewModels\obj\Debug\netcoreapp2.0\ProductsSystem.ViewModels.dll
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.ViewModels\obj\Debug\netcoreapp2.0\ProductsSystem.ViewModels.pdb

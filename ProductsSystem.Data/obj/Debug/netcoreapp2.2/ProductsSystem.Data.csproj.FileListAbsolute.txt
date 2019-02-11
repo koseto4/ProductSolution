@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.Data\bin\Debug\netcoreapp2.2\ProductsSystem.Data.deps.json
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.Data\bin\Debug\netcoreapp2.2\ProductsSystem.Data.dll
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.Data\obj\Debug\netcoreapp2.2\ProductsSystem.Data.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.Data\obj\Debug\netcoreapp2.2\ProductsSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.Data\obj\Debug\netcoreapp2.2\ProductsSystem.Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.Data\obj\Debug\netcoreapp2.2\ProductsSystem.Data.AssemblyInfo.cs

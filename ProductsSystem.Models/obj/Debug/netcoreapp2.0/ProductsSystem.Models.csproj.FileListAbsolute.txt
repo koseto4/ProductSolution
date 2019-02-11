@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.Models\bin\Debug\netcoreapp2.0\ProductsSystem.Models.deps.json
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.Models\bin\Debug\netcoreapp2.0\ProductsSystem.Models.dll
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.Models\bin\Debug\netcoreapp2.0\ProductsSystem.Models.pdb
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.Models\obj\Debug\netcoreapp2.0\ProductsSystem.Models.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.Models\obj\Debug\netcoreapp2.0\ProductsSystem.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.Models\obj\Debug\netcoreapp2.0\ProductsSystem.Models.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.Models\obj\Debug\netcoreapp2.0\ProductsSystem.Models.AssemblyInfo.cs
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.Models\obj\Debug\netcoreapp2.0\ProductsSystem.Models.dll
+C:\Users\User\source\repos\ProductsSystemSolution\ProductsSystem.Models\obj\Debug\netcoreapp2.0\ProductsSystem.Models.pdb
